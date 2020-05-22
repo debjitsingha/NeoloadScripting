@@ -1,0 +1,59 @@
+<http-page executeResourcesDynamically="false" name="/gen_7"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/5a595a5c-21f2-4a72-b938-676a1695ca5d.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="5a595a5c-21f2-4a72-b938-676a1695ca5d">
+    <embedded-action>daeb862e-fb21-44a9-bb98-3f8ed103f88b</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_5a595a5c-21f2-4a72-b938-676a1695ca5d.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gen_204" path="/gen_204" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/5a595a5c-21f2-4a72-b938-676a1695ca5d.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.com_1" slaProfileEnabled="false"
+    uid="daeb862e-fb21-44a9-bb98-3f8ed103f88b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_daeb862e-fb21-44a9-bb98-3f8ed103f88b.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_daeb862e-fb21-44a9-bb98-3f8ed103f88b.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="atyp"
+        recordRawValue="i" separator="=" value="i" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ei"
+        recordRawValue="6NLGXqqdINLctQb-26n4CA" separator="="
+        value="6NLGXqqdINLctQb-26n4CA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ct"
+        recordRawValue="slh" separator="=" value="slh" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="t1" separator="=" value="t1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="m"
+        recordRawValue="HV" separator="=" value="HV" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="pv"
+        recordRawValue="0.5176283925125549" separator="="
+        value="0.5176283925125549" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="me"
+        recordRawValue="1:1590088429391,x:1,V,0,0,1536,745:0,N,1,6NLGXqqdINLctQb-26n4CA:0,R,1,7,24,46,92,16:0,R,1,CAUQAA,180,172,600,241:0,R,1,CAsQAA,180,441,600,243:0,R,1,CAsQAw,181,486,652,44:0,R,1,CAsQDQ,181,530,652,44:0,R,1,CAsQGA,181,575,652,44:0,R,1,CAsQIw,181,619,652,44:0,R,1,CAcQAA,180,712,600,219:2,B,2602:815,h,1,CAUQAA,i:1075,G,1,CAUQAA,183,49,1:0,c,363,221:1,G,1,CAUQAA,183,49:11,e,C"
+        separator="="
+        value="1:1590088429391,x:1,V,0,0,1536,745:0,N,1,6NLGXqqdINLctQb-26n4CA:0,R,1,7,24,46,92,16:0,R,1,CAUQAA,180,172,600,241:0,R,1,CAsQAA,180,441,600,243:0,R,1,CAsQAw,181,486,652,44:0,R,1,CAsQDQ,181,530,652,44:0,R,1,CAsQGA,181,575,652,44:0,R,1,CAsQIw,181,619,652,44:0,R,1,CAcQAA,180,712,600,219:2,B,2602:815,h,1,CAUQAA,i:1075,G,1,CAUQAA,183,49,1:0,c,363,221:1,G,1,CAUQAA,183,49:11,e,C" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="zx"
+        recordRawValue="1590088431296" separator="="
+        value="1590088431296" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/search?source=hp&amp;ei=5dLGXvyXB43dtAaJqY_gAw&amp;q=Hi+All&amp;oq=Hi+All&amp;gs_lcp=CgZwc3ktYWIQAzIFCAAQgwEyAggAMgIIADICCAAyAggAMgIIADIECAAQCjICCAAyAggAMgIIAFDwDFjsFGDhFmgAcAB4AIABX4gBvQOSAQE2mAEAoAEBqgEHZ3dzLXdpeg&amp;sclient=psy-ab&amp;ved=0ahUKEwi8noL81MXpAhWNLs0KHYnUAzwQ4dUDCAw&amp;uact=5"/>
+    <header name="cookie" value="OGPC=19011552-3:; 1P_JAR=2020-05-21-19; NID=204=t394TDzEOKBi-VJVOzr_ynQ2woQqyG8qF6M7TIUcFXEJGX3yg67V_Z41wyltn64SjbUTtOLmlLWbzcMDR8uRLEQaPAj7ekWOTh7DSaHku-VI7akTQVXmzydtsvikcaw-1s_aRQs7MjB8HmZiDPcHQBHE6ZGOSHMd-U-uWWxsYdY; DV=w-JM2elRx3spsLVGvYba-S8_8n2KI5dAM0G0z9_5owEAAAA"/>
+    <header name="accept-language" value="en-US,en;q=0.5"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko"/>
+    <header name="accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+date: Thu, 21 May 2020 19:13:47 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+set-cookie: 1P_JAR=2020-05-21-19; expires=Sat, 20-Jun-2020 19:13:47 GMT; path=/; domain=.google.com; Secure; SameSite=none&#xd;
+alt-svc: h3-27=":443"; ma=2592000,h3-25=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

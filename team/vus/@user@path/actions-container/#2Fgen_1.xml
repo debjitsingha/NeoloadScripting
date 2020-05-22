@@ -1,0 +1,66 @@
+<http-page executeResourcesDynamically="false" name="/gen_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/095d6a54-02f5-4188-b9cd-0fd54486013f.zip"
+    slaProfileEnabled="false" thinkTime="144"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="095d6a54-02f5-4188-b9cd-0fd54486013f">
+    <embedded-action>fa224a1b-fcd2-4bfb-9aff-a001962ec8cf</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_095d6a54-02f5-4188-b9cd-0fd54486013f.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gen_204" path="/gen_204" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/095d6a54-02f5-4188-b9cd-0fd54486013f.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.com_1" slaProfileEnabled="false"
+    uid="fa224a1b-fcd2-4bfb-9aff-a001962ec8cf" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fa224a1b-fcd2-4bfb-9aff-a001962ec8cf.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fa224a1b-fcd2-4bfb-9aff-a001962ec8cf.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="atyp"
+        recordRawValue="i" separator="=" value="i" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="zx"
+        recordRawValue="1590088426404" separator="="
+        value="1590088426404" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ogsr"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ei"
+        recordRawValue="5dLGXsGZCMW7tQalsRc" separator="="
+        value="5dLGXsGZCMW7tQalsRc" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ct"
+        recordRawValue="7" separator="=" value="7" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cad"
+        recordRawValue="i" separator="=" value="i" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="19014989" separator="=" value="19014989" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="loc"
+        recordRawValue="webhp" separator="=" value="webhp" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="prid"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ogd"
+        recordRawValue="com" separator="=" value="com" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ogprm"
+        recordRawValue="up" separator="=" value="up" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="vis"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ap"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/?gws_rd=ssl"/>
+    <header name="cookie" value="OGPC=19011552-2:; 1P_JAR=2020-5-21-19; NID=203=Q_1rwb6YCd8Eglrp1BCEyMNK2pDzBKMDghJLNfQ_S_WL4TtSC0fdCh2A3ocE3aCdBhgTZkaTPpeOa7psGC69dMfMZunBoFdFbQoK42O9aLCW5Bd5nVmioQx-6hVOJ5qMWEIFsrpxiDAyN5HFAubQsbhXrx5VEu-R5HC4ruRTlTc"/>
+    <header name="accept-language" value="en-US,en;q=0.5"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko"/>
+    <header name="accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+date: Thu, 21 May 2020 19:13:42 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+set-cookie: 1P_JAR=2020-05-21-19; expires=Sat, 20-Jun-2020 19:13:42 GMT; path=/; domain=.google.com; Secure; SameSite=none&#xd;
+alt-svc: h3-27=":443"; ma=2592000,h3-25=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

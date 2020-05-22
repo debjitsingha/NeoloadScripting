@@ -1,0 +1,94 @@
+<http-page executeResourcesDynamically="false" name="/client_204"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/b2d60b4a-705c-4eff-a1ef-21ae273c254e.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b2d60b4a-705c-4eff-a1ef-21ae273c254e">
+    <embedded-action>532c8ede-077b-4488-86ec-2b8c2e15e38f</embedded-action>
+    <embedded-action>6eda4181-691f-475d-806c-b4780dbdf881</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b2d60b4a-705c-4eff-a1ef-21ae273c254e.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/client_204" path="/client_204" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/b2d60b4a-705c-4eff-a1ef-21ae273c254e.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.com_1" slaProfileEnabled="false"
+    uid="532c8ede-077b-4488-86ec-2b8c2e15e38f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_532c8ede-077b-4488-86ec-2b8c2e15e38f.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_532c8ede-077b-4488-86ec-2b8c2e15e38f.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="atyp"
+        recordRawValue="i" separator="=" value="i" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="biw"
+        recordRawValue="1536" separator="=" value="1536" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="bih"
+        recordRawValue="745" separator="=" value="745" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="dpr"
+        recordRawValue="1.25" separator="=" value="1.25" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mtp"
+        recordRawValue="10" separator="=" value="10" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ei"
+        recordRawValue="6NLGXqqdINLctQb-26n4CA" separator="="
+        value="6NLGXqqdINLctQb-26n4CA" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/search?source=hp&amp;ei=5dLGXvyXB43dtAaJqY_gAw&amp;q=Hi+All&amp;oq=Hi+All&amp;gs_lcp=CgZwc3ktYWIQAzIFCAAQgwEyAggAMgIIADICCAAyAggAMgIIADIECAAQCjICCAAyAggAMgIIAFDwDFjsFGDhFmgAcAB4AIABX4gBvQOSAQE2mAEAoAEBqgEHZ3dzLXdpeg&amp;sclient=psy-ab&amp;ved=0ahUKEwi8noL81MXpAhWNLs0KHYnUAzwQ4dUDCAw&amp;uact=5"/>
+    <header name="cookie" value="OGPC=19011552-3:; 1P_JAR=2020-5-21-19; NID=204=t394TDzEOKBi-VJVOzr_ynQ2woQqyG8qF6M7TIUcFXEJGX3yg67V_Z41wyltn64SjbUTtOLmlLWbzcMDR8uRLEQaPAj7ekWOTh7DSaHku-VI7akTQVXmzydtsvikcaw-1s_aRQs7MjB8HmZiDPcHQBHE6ZGOSHMd-U-uWWxsYdY"/>
+    <header name="accept-language" value="en-US,en;q=0.5"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko"/>
+    <header name="accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+date: Thu, 21 May 2020 19:13:45 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+set-cookie: 1P_JAR=2020-05-21-19; expires=Sat, 20-Jun-2020 19:13:45 GMT; path=/; domain=.google.com; Secure; SameSite=none&#xd;
+alt-svc: h3-27=":443"; ma=2592000,h3-25=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/xjs/_/js/k=xjs.s.en_US.wVt8v3Zv-Tw.O/ck=xjs.s.jivi8nNybh4.L.I11.O/am=AkAAAACwBGDWDQDgfxAAvAtKHAAAIEBIBBsLpBEJCQEIALCFBQAAAg/d=1/exm=F8FRnd,Fkg7bd,HcFEGb,IvlUe,MC8mtf,MkHyGd,NBZ7u,NpD4ec,OF7gzc,OG6ZHd,RMhBfe,RqxLvf,T4BAC,T6sTsf,T7XTS,TJw5qb,TxZWcc,URQPYc,Wq6lxf,XMgU6d,XjCeUc,Y33vzc,ZyRBae,aCZVp,aa,aam1T,abd,async,bgd,cdos,cr,csi,d,dvl,eN4qad,eT9j9d,foot,hsm,iD8Yk,iDPoPb,jsa,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,mvYTse,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sb_wiz,sf,tg8oTe,tl,uiNkee,uz938c,vWNDde,vs,wkrYee,ws9Tlc,xz7cCd,yQ43ff,zbML3c/ed=1/dg=2/ct=zgms/rs=ACT90oE4JkQVW9y-jpmZC9u-LNzZbEJKSg/m=QPfswe,r36a9c,xj7LNb"
+    path="/xjs/_/js/k=xjs.s.en_US.wVt8v3Zv-Tw.O/ck=xjs.s.jivi8nNybh4.L.I11.O/am=AkAAAACwBGDWDQDgfxAAvAtKHAAAIEBIBBsLpBEJCQEIALCFBQAAAg/d=1/exm=F8FRnd,Fkg7bd,HcFEGb,IvlUe,MC8mtf,MkHyGd,NBZ7u,NpD4ec,OF7gzc,OG6ZHd,RMhBfe,RqxLvf,T4BAC,T6sTsf,T7XTS,TJw5qb,TxZWcc,URQPYc,Wq6lxf,XMgU6d,XjCeUc,Y33vzc,ZyRBae,aCZVp,aa,aam1T,abd,async,bgd,cdos,cr,csi,d,dvl,eN4qad,eT9j9d,foot,hsm,iD8Yk,iDPoPb,jsa,kyn,lazG7b,lli,lu,m,mI3LFb,mUpTid,mpck,mu,mvYTse,o02Jie,pB6Zqd,qik19b,rHjpXd,runuse,sb_wiz,sf,tg8oTe,tl,uiNkee,uz938c,vWNDde,vs,wkrYee,ws9Tlc,xz7cCd,yQ43ff,zbML3c/ed=1/dg=2/ct=zgms/rs=ACT90oE4JkQVW9y-jpmZC9u-LNzZbEJKSg/m=QPfswe,r36a9c,xj7LNb"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/b2d60b4a-705c-4eff-a1ef-21ae273c254e.zip"
+    recordedResponseCode="200" responseSize="11498"
+    serverUid="www.google.com_1" slaProfileEnabled="false"
+    uid="6eda4181-691f-475d-806c-b4780dbdf881" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6eda4181-691f-475d-806c-b4780dbdf881</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6eda4181-691f-475d-806c-b4780dbdf881.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="xjs"
+        recordRawValue="s2" separator="=" value="s2" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/search?source=hp&amp;ei=5dLGXvyXB43dtAaJqY_gAw&amp;q=Hi+All&amp;oq=Hi+All&amp;gs_lcp=CgZwc3ktYWIQAzIFCAAQgwEyAggAMgIIADICCAAyAggAMgIIADIECAAQCjICCAAyAggAMgIIAFDwDFjsFGDhFmgAcAB4AIABX4gBvQOSAQE2mAEAoAEBqgEHZ3dzLXdpeg&amp;sclient=psy-ab&amp;ved=0ahUKEwi8noL81MXpAhWNLs0KHYnUAzwQ4dUDCAw&amp;uact=5"/>
+    <header name="cookie" value="OGPC=19011552-3:; 1P_JAR=2020-05-21-19; NID=204=t394TDzEOKBi-VJVOzr_ynQ2woQqyG8qF6M7TIUcFXEJGX3yg67V_Z41wyltn64SjbUTtOLmlLWbzcMDR8uRLEQaPAj7ekWOTh7DSaHku-VI7akTQVXmzydtsvikcaw-1s_aRQs7MjB8HmZiDPcHQBHE6ZGOSHMd-U-uWWxsYdY"/>
+    <header name="accept-language" value="en-US,en;q=0.5"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko"/>
+    <header name="accept" value="application/javascript, */*;q=0.8"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+vary: Accept-Encoding&#xd;
+content-encoding: gzip&#xd;
+content-type: text/javascript; charset=UTF-8&#xd;
+content-length: 3860&#xd;
+date: Wed, 20 May 2020 21:45:25 GMT&#xd;
+expires: Thu, 20 May 2021 21:45:25 GMT&#xd;
+last-modified: Tue, 19 May 2020 23:25:56 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+cache-control: public, max-age=31536000&#xd;
+age: 77300&#xd;
+alt-svc: h3-27=":443"; ma=2592000,h3-25=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

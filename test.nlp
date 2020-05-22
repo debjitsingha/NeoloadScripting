@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=test
+project.version=7.0
+project.original.version=7.0
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=7.3.0
+project.id=06e7d242-cf96-4913-b515-e04a897193f1
+project.config.path=team
+project.config.storage=XML_MULTI
+team.server.enabled=true
+team.server.project=/debjitsingha/NeoloadScripting.git

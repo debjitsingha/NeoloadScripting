@@ -1,0 +1,46 @@
+<virtual-user errorPolicy="DO_NOTHING"
+    failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false" uid="UserPath">
+    <init-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed once when the Virtual User starts.</description>
+    </init-container>
+    <actions-container clearUserIterationDataMode="AUTO"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements repeated until the Virtual User stops.</description>
+        <weighted-embedded-action uid="74af02af-2d9c-4d84-a784-1b9b58515360"/>
+        <weighted-embedded-action uid="f760a712-3269-4fc4-9821-5621f6089a4b"/>
+        <weighted-embedded-action uid="a19ce16f-d36b-4b09-878c-c02e20ed509a"/>
+        <weighted-embedded-action uid="ed818292-cc9f-4060-8a67-e1bd70f976e0"/>
+        <weighted-embedded-action uid="095d6a54-02f5-4188-b9cd-0fd54486013f"/>
+        <weighted-embedded-action uid="f5937d04-8a11-43b9-b9a8-4269058ac8aa"/>
+        <weighted-embedded-action uid="bc1cf730-0f33-4e5a-be4f-cee5331e8400"/>
+        <weighted-embedded-action uid="726bbc2a-92e1-4b7b-90be-2da562e77f04"/>
+        <weighted-embedded-action uid="060b31b4-da42-4a2a-8920-9d84f8fca88a"/>
+        <weighted-embedded-action uid="93ce9a66-674f-4d7e-97fb-b0a6e10fd159"/>
+        <weighted-embedded-action uid="446f95ad-ae60-4863-a14f-9d3ab62f1cab"/>
+        <weighted-embedded-action uid="aedbbd5c-a3dd-4558-a7ca-249103685d7c"/>
+        <weighted-embedded-action uid="a93ed4ac-ab1d-4413-8f22-c2c2c6bbff90"/>
+        <weighted-embedded-action uid="ef6a478f-d963-4cef-a9df-18f03e5d31c0"/>
+        <weighted-embedded-action uid="6dc16308-2354-440f-bf99-e5c71a425d01"/>
+        <weighted-embedded-action uid="3fa5c3d6-b1d0-467d-a975-29b586b6f86b"/>
+        <weighted-embedded-action uid="b2d60b4a-705c-4eff-a1ef-21ae273c254e"/>
+        <weighted-embedded-action uid="c0be0c8e-91e8-4de1-8477-afde267d0b9c"/>
+        <weighted-embedded-action uid="ce6fb2de-b87d-4879-857b-907ad30672dd"/>
+        <weighted-embedded-action uid="b785fe89-63bb-4f0c-b3cc-7b905ba6bd1d"/>
+        <weighted-embedded-action uid="a3a2b9d8-d6cc-4165-886d-7b82a9faf2a3"/>
+        <weighted-embedded-action uid="aaa7a8da-cb78-40b6-b2c9-2dcc3d593c84"/>
+        <weighted-embedded-action uid="5a595a5c-21f2-4a72-b938-676a1695ca5d"/>
+        <weighted-embedded-action uid="dfe9fd54-def0-47d1-b5f7-6ff3589e7965"/>
+    </actions-container>
+    <end-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed before the Virtual User stops.</description>
+    </end-container>
+    <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+        thinktimeFactorValue="100" thinktimePolicy="0"
+        thinktimeRangeValue="0" thinktimeValue="5000"/>
+</virtual-user>

@@ -1,0 +1,80 @@
+<http-page executeResourcesDynamically="false" name="/gen_6"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/a3a2b9d8-d6cc-4165-886d-7b82a9faf2a3.zip"
+    slaProfileEnabled="false" thinkTime="33"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a3a2b9d8-d6cc-4165-886d-7b82a9faf2a3">
+    <embedded-action>9271c06d-2519-4f2d-9904-34cc639b3a84</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_a3a2b9d8-d6cc-4165-886d-7b82a9faf2a3.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/gen_204" path="/gen_204" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/a3a2b9d8-d6cc-4165-886d-7b82a9faf2a3.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.google.com_1" slaProfileEnabled="false"
+    uid="9271c06d-2519-4f2d-9904-34cc639b3a84" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9271c06d-2519-4f2d-9904-34cc639b3a84.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9271c06d-2519-4f2d-9904-34cc639b3a84.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="atyp"
+        recordRawValue="csi" separator="=" value="csi" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ei"
+        recordRawValue="6NLGXqqdINLctQb-26n4CA" separator="="
+        value="6NLGXqqdINLctQb-26n4CA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="s"
+        recordRawValue="web" separator="=" value="web" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="t"
+        recordRawValue="all" separator="=" value="all" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="bl"
+        recordRawValue="GnQo" separator="=" value="GnQo" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="imn"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="adh"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ima"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="imad"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ime"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="imex"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="imeh"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="imea"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="imeb"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wh"
+        recordRawValue="745" separator="=" value="745" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="scp"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fld"
+        recordRawValue="1606" separator="=" value="1606" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="rt"
+        recordRawValue="sct.481,prt.548,aft.548,iml.556,xjsls.583,xjses.769,xjsee.811,xjs.811,dcl.815,ol.1166,wsrt.251,cst.0,dnst.0,rqst.562,rspt.559,rqstt.248,unt.2,ppunt.1,cstt.2,dit.1065"
+        separator="="
+        value="sct.481,prt.548,aft.548,iml.556,xjsls.583,xjses.769,xjsee.811,xjs.811,dcl.815,ol.1166,wsrt.251,cst.0,dnst.0,rqst.562,rspt.559,rqstt.248,unt.2,ppunt.1,cstt.2,dit.1065" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="zx"
+        recordRawValue="1590088429552" separator="="
+        value="1590088429552" valueMode="USE_VALUE"/>
+    <header name="referer" value="https://www.google.com/search?source=hp&amp;ei=5dLGXvyXB43dtAaJqY_gAw&amp;q=Hi+All&amp;oq=Hi+All&amp;gs_lcp=CgZwc3ktYWIQAzIFCAAQgwEyAggAMgIIADICCAAyAggAMgIIADIECAAQCjICCAAyAggAMgIIAFDwDFjsFGDhFmgAcAB4AIABX4gBvQOSAQE2mAEAoAEBqgEHZ3dzLXdpeg&amp;sclient=psy-ab&amp;ved=0ahUKEwi8noL81MXpAhWNLs0KHYnUAzwQ4dUDCAw&amp;uact=5"/>
+    <header name="cookie" value="OGPC=19011552-3:; 1P_JAR=2020-05-21-19; NID=204=t394TDzEOKBi-VJVOzr_ynQ2woQqyG8qF6M7TIUcFXEJGX3yg67V_Z41wyltn64SjbUTtOLmlLWbzcMDR8uRLEQaPAj7ekWOTh7DSaHku-VI7akTQVXmzydtsvikcaw-1s_aRQs7MjB8HmZiDPcHQBHE6ZGOSHMd-U-uWWxsYdY; DV=w-JM2elRx3spsLVGvYba-S8_8n2KI5dAM0G0z9_5owEAAAA"/>
+    <header name="accept-language" value="en-US,en;q=0.5"/>
+    <header name="accept-encoding" value="gzip, deflate"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko"/>
+    <header name="accept" value="image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+content-type: text/html; charset=UTF-8&#xd;
+date: Thu, 21 May 2020 19:13:45 GMT&#xd;
+server: gws&#xd;
+Content-Length: 0&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+set-cookie: 1P_JAR=2020-05-21-19; expires=Sat, 20-Jun-2020 19:13:45 GMT; path=/; domain=.google.com; Secure; SameSite=none&#xd;
+alt-svc: h3-27=":443"; ma=2592000,h3-25=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
